@@ -35,7 +35,5 @@ Trabalho tanto no **front-end** quanto no **back-end**, utilizando tecnologias c
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=gsaad2305&show_icons=true&theme=radical" alt="stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsaad2305&layout=compact&langs_count=8&theme=radical" alt="languages"/>
-</div>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=gsaad2305&show_icons=true&theme=radical" alt="stats" align="left"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsaad2305&layout=compact&langs_count=8&theme=radical" alt="languages" align="left"/>
