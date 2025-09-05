@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gustavo Saad (a.k.a. DevSad)
+# 👋 Hi, I'm Gustavo Saad (DevSad)
 
 ### 💻 Desenvolvedor Fullstack
 
