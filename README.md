@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gustavo Saad (DevSad)
 
-### 💻 Desenvolvedor Fullstack
+### 💻 Desenvolvedor Front-End
 
-Sou um desenvolvedor **Fullstack** apaixonado por criar aplicações web modernas e eficientes.  
+Sou um desenvolvedor **Front-End** apaixonado por criar aplicações web modernas e eficientes.  
 Trabalho tanto no **front-end** quanto no **back-end**, utilizando tecnologias como:
 
 - JavaScript | TypeScript | Node.js | Python
