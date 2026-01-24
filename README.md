@@ -6,7 +6,7 @@ Sou um desenvolvedor **Front-End** apaixonado por criar aplicações web moderna
 Trabalho tanto no **front-end** quanto no **back-end**, utilizando tecnologias como:
 
 - JavaScript | TypeScript | Node.js | Python
-- React | Nest.js | Tailwind CSS | HTML | CSS
+- React | Tailwind CSS | HTML | CSS
 
 🚀 Sempre em busca de aprender novas ferramentas e práticas para entregar projetos de qualidade.  
 🌱 Atualmente explorando também **Inteligência Artificial aplicada à programação**.
