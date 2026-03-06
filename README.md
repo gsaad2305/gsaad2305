@@ -12,7 +12,7 @@ Trabalho tanto no **front-end** quanto no **back-end**, utilizando tecnologias c
 🌱 Atualmente explorando também **Inteligência Artificial aplicada à programação**.
 
 <a href="https://www.linkedin.com/in/gustavo-s-60b66b342/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" /></a>
-<img width="30px" alt="image" src="https://github.com/user-attachments/assets/c5ebb489-5d17-4ce2-8bfc-6341c11fbeb8" />
+<a href="https://www.instagram.com/dev_sad21/"><img width="30px" alt="image" src="https://github.com/user-attachments/assets/c5ebb489-5d17-4ce2-8bfc-6341c11fbeb8" /> </a>
 
 ---
 
