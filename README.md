@@ -12,6 +12,7 @@ Trabalho tanto no **front-end** quanto no **back-end**, utilizando tecnologias c
 🌱 Atualmente explorando também **Inteligência Artificial aplicada à programação**.
 
 <a href="https://www.linkedin.com/in/gustavo-s-60b66b342/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" /></a>
+<img width="30px" alt="image" src="https://github.com/user-attachments/assets/c5ebb489-5d17-4ce2-8bfc-6341c11fbeb8" />
 
 ---
 
@@ -19,8 +20,8 @@ Trabalho tanto no **front-end** quanto no **back-end**, utilizando tecnologias c
 
 <div style="display: flex; gap: 10px;">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux"  width="40"/>       
-    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux"  width="40"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="Arch" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
