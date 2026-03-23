@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A5ACD&random=false&width=435&lines=Hi+there%2C+I'm+Saad+Ali+%F0%9F%91%8B;Software+Engineering+Student;DSA+Enthusiast;Web+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A5ACD&random=false&width=435&lines=Hi+there%2C+I'm+Saad+(DevSad)+%F0%9F%91%8B;Web+Developer" alt="Typing SVG" />
 </div>
 
 ### 💻 Desenvolvedor Front-End
