@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka+Nerd+Font&weight=900&pause=1000&color=6791C9&background=0C0E0F00&center=true&vCenter=true&width=500&lines=Hi, I'm Gustavo Saad (DevSad)" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A5ACD&random=false&width=435&lines=Hi+there%2C+I'm+Saad+Ali+%F0%9F%91%8B;Software+Engineering+Student;DSA+Enthusiast;Web+Developer" alt="Typing SVG" />
 </div>
 
 ### 💻 Desenvolvedor Front-End
