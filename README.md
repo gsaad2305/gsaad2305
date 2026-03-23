@@ -2,23 +2,13 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A5ACD&random=false&width=435&lines=Hi%2C+I'm+Saad+(DevSad)+%F0%9F%91%8B;Web+Developer" alt="Typing SVG" />
 </div>
 
-### 💻 Desenvolvedor Front-End
-
-Sou um desenvolvedor **Front-End** apaixonado por criar aplicações web modernas e eficientes.  
-Trabalho tanto no **front-end** quanto no **back-end**, utilizando tecnologias como:
-
-- JavaScript | TypeScript | Node.js | Python
-- React | Tailwind CSS | HTML | CSS
-
-🚀 Sempre em busca de aprender novas ferramentas e práticas para entregar projetos de qualidade.  
-🌱 Atualmente explorando também **Inteligência Artificial aplicada à programação**.
-
+## Connect with me:
 <a href="https://www.linkedin.com/in/gustavo-s-60b66b342/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" /></a>
 <a href="https://www.instagram.com/dev_sad21/"><img width="30px" alt="image" src="https://github.com/user-attachments/assets/c5ebb489-5d17-4ce2-8bfc-6341c11fbeb8" /> </a>
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages and  Tools:
 
 <div style="display: flex; gap: 10px;">
   
