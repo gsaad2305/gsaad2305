@@ -1,4 +1,7 @@
 <div align="center">
+      <img src="Frieren.gif"/>
+</div>
+<div align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A5ACD&random=false&width=435&lines=Hi%2C+I'm+Saad+(DevSad)+%F0%9F%91%8B;Web+Developer" alt="Typing SVG" />
 </div>
 
