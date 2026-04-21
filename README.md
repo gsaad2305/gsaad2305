@@ -6,13 +6,10 @@
 <div align="center">
       <h1>Hi I'm Gustavo Saad (DevSad)👋</h1>
 </div>
-<div style="display:flex; gap:10px; margin:10px;">
-<div>
-<h1> About me: </h1>
-I'm starting my journey as a web developer, focusing on creating modern, responsive, and functional interfaces. My goal is to grow steadily and transform ideas into real and accessible solutions.
-</div>
-<img src="blackaranha.jpg" width="150px"/>
-</div>
+
+
+## About me:
+I'm starting my journey as a web developer, focusing on creating modern, responsive, and functional interfaces. My goal is to grow steadily and transform ideas into real and accessible solutions.</div>
 ---
 
 ## Connect with me:
