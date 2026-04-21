@@ -1,9 +1,19 @@
 <div align="center">
-      <img src="Frieren.gif"/>
+      <img src="aranha.png" width="100%/>
+
 </div>
+
 <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A5ACD&random=false&width=435&lines=Hi%2C+I'm+Saad+(DevSad)+%F0%9F%91%8B;Web+Developer" alt="Typing SVG" />
+      <h1>Hi I'm Gustavo Saad (DevSad)👋</h1>
 </div>
+<div style="display:flex; gap:10px; margin:10px;">
+<div>
+<h1> About me: </h1>
+I'm starting my journey as a web developer, focusing on creating modern, responsive, and functional interfaces. My goal is to grow steadily and transform ideas into real and accessible solutions.
+</div>
+<img src="blackaranha.jpg" width="150px"/>
+</div>
+---
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gustavo-s-60b66b342/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" /></a>
@@ -11,8 +21,7 @@
 
 ---
 
-## Languages and  Tools:
-
+## Languages and Tools:
 <div style="display: flex; gap: 10px;">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux"  width="40"/>      
@@ -25,7 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title=Git alt="git" width="40"/>
           
 </div>
@@ -33,6 +41,5 @@
 ---
 
 ## 📊 GitHub Stats
-
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=gsaad2305&show_icons=true&theme=radical" alt="stats" align="left"/>
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsaad2305&layout=compact&langs_count=8&theme=radical" alt="languages" align="left"/>
