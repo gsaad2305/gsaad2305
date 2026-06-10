@@ -33,6 +33,6 @@ I'm starting my journey as a web developer, focusing on creating modern, respons
 ---
 
 ## GitHub Stats
-
+<p><p><img height="195"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsaad2305&show_icons=true&locale=en&layout=compact" alt="gsaad2305" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsaad2305&theme=radical" alt="gsaad2305" /></p>
